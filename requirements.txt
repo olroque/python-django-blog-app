@@ -27,6 +27,7 @@ django-crispy-forms==1.11.2
 django-storages==1.11.1
 entrypoints==0.3
 filelock==3.0.12
+gunicorn==20.1.0
 h11==0.12.0
 idna==3.2
 ipykernel==6.1.0
@@ -78,7 +79,6 @@ requests==2.26.0
 requests-unixsocket==0.2.0
 rubicon-objc==0.4.2
 s3transfer==0.4.2
-selenium==4.0.0
 Send2Trash==1.8.0
 six==1.16.0
 sniffio==1.2.0
@@ -99,4 +99,5 @@ webdriver-manager==3.5.2
 webdrivermanager==0.10.0
 webencodings==0.5.1
 websocket-client==1.2.0
+whitenoise==5.3.0
 wsproto==1.0.0
